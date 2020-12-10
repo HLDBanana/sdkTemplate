@@ -1,0 +1,37 @@
+
+P
+java:S2864¨"4Iterate over the "entrySet" instead of the "keySet".(©ÝíÛýÿÿÿÿ
+J
+java:S3740."/Provide the parametrized type for this generic.(¢æö…øÿÿÿÿ
+J
+java:S37400"/Provide the parametrized type for this generic.(µ©—øÿÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(èçûÎùÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(šÎëâ
+V	java:S125A"<This block of commented-out lines of code should be removed.(¸‰Œúÿÿÿÿ
+B
+java:S3011Ç",This accessibility bypass should be removed.(ÝÚw
+J
+java:S2864W"4Iterate over the "entrySet" instead of the "keySet".(¸¼ô»
+V	java:S125^"<This block of commented-out lines of code should be removed.(Â²íýÿÿÿÿ
+2
+java:S1643q"Use a StringBuilder instead.(âÖÆŒ
+B
+java:S3011À",This accessibility update should be removed.(ÞªÖ
+J
+java:S3740."/Provide the parametrized type for this generic.(¢æö…øÿÿÿÿ
+J
+java:S2864o"4Iterate over the "entrySet" instead of the "keySet".(˜ºÐ
+H
+java:S3011½",This accessibility update should be removed.(„«µ”ùÿÿÿÿ
+C
+java:S3011¾",This accessibility bypass should be removed.(øÜ²Ã
+2
+java:S1643t"Use a StringBuilder instead.(¯ÔÍ¤
+J
+java:S2864:"4Iterate over the "entrySet" instead of the "keySet".(¸¼ô»
+P
+java:S2864ˆ"4Iterate over the "entrySet" instead of the "keySet".(©ÝíÛýÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ðˆ¿ù
+g
+java:S2095*"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ýê”Ê

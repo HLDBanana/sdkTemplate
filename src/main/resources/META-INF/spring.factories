@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yss.datamiddle.config.SdkConfig,\
+com.yss.datamiddle.service.impl.HldServiceImpl,\
+com.yss.datamiddle.service.impl.DemoServiceImpl,\
+com.yss.datamiddle.common.ETLUrls
